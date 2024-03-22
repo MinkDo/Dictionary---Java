@@ -1,0 +1,17 @@
+cat: a small animal that has soft fur, a tail, and four legs and we often keep it as a pet
+dog: an animal that has a tail and four legs and we keep as a pet
+horse: an animal that is large, has a tail and four legs, and we use for racing, pulling carriages, riding, etc.
+sheep: a farm animal that we keep to use its meat or wool
+cow: a large farm animal that we keep to use its milk or its meat
+pig: a farm animal that has short legs, a curly tail, and a fat body and people usually keep to use its meat
+lion: a powerful and large animal that is from the cat family and mostly found in Africa, with the male having a large mane
+monkey: an animal that has a long tail and usually lives in trees and warm countries
+bear: a large animal with sharp claws and thick fur, which eats meat, honey, insects, and fruits
+rabbit: an animal that is small, eats plants, has a short tale, long ears, and soft fur
+mouse: a small animal that lives in fields or houses, and often has fur, a long furless thin tail, and a pointed nose
+snake: a legless, long, and thin animal whose bite may be dangerous
+fish: an animal with a tail, gills and fins that lives in water
+elephant: an animal that is very large, has thick gray skin, four legs, a very long nose that is called a trunk, and mostly lives in Asia and Africa
+bird: an animal with a beak, wings, and feathers that are usually capable of flying
+chicken: a farm bird that we keep to use its meat and its eggs
+VICTORY: Congratulations you have passed all the questions!!!

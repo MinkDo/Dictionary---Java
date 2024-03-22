@@ -1,0 +1,5 @@
+.button {
+    -fx-text-fill: rgb(250, 247, 247);
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
